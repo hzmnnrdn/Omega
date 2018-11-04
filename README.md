@@ -7,7 +7,7 @@ Prepared by Munirah binti Mohd Aziz (1716274), Hazmi (1718909) and Arif (1615283
 
 <p>This webpage is intended to be an educational website that aims to spread awareness of the importance of blood donations and also give a clearer understanding on how blood donations work. Former Deputy Prime Minister Tan Sri Muhyiddin Yassin stated in 2014 that only 2.5% of Malaysians were blood donors, well below the international average of five percent, despite the increase in the number of blood donors in Malaysia at that time. It has been four years since then however the numbers blood donors in Malaysia are still not enough. Therefore, we also hope by creating this webpage, more people are encouraged to do blood donations. </p>
 
-<b>Group Contributions</b><br><br>
+<b>Group Contributions</b><br>
 <p>Each of the team members prepared 4 web pages for the progress presentation as shown in Table 1. At the moment, our website can only view some history, facts, some guide, and schedule.</p> <br>
 <b>Future Enhancements</b> <br>
 <p>In the future we would like to make the website become more interactive. The future enhancement may include calendar features. In the near future, the website can receive and store data.</p>
