@@ -27,12 +27,12 @@ $(document).ready(function () {
           datetime: new Date(2018, 10, 23, 8), 
 //           url: "https://www.google.com",
 //           url_blank: false
-        },
-        {
-          title: 'Blood Donation Campaign',
-          description: 'KLCC',
-          datetime: new Date(2019, 0, 20, 8)
         }
+//         {
+//           title: 'Blood Donation Campaign',
+//           description: 'KLCC',
+//           datetime: new Date(2019, 0, 20, 8)
+//         }
 //         {
 //           title: 'Donation for Blood Bank',
 //           description: 'Al Malik Faisal Hall',
