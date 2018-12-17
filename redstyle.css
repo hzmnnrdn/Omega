@@ -172,15 +172,30 @@ overflow: hidden;
 transition: max-height 0.2s ease-out;
 }
 
+.paginator-navigator {
+
+  align-items:center;
+  background-color:#cc181e;
+  border-radius:8px;
+  color:#ffffff;
+  display:grid;
+  grid-area:navigator;
+  grid-template-columns:auto auto auto;
+  grid-template-rows:auto;
+  justify-content:center;
+  justify-items:center;
+  margin:0 auto;
+  padding:0 8px;
+  text-align:center;
+
+}
+
 .paginator-button {
 
   cursor:pointer;
   font-size:12px;
-  background-color: maroon;
-  color:white;
   border-color:#ffffff;
   padding:8px;
-  border-radius:2px;
   user-select:none;
 
 }
