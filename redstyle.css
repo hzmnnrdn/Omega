@@ -172,6 +172,16 @@ overflow: hidden;
 transition: max-height 0.2s ease-out;
 }
 
+.paginator-button {
+
+  cursor:pointer;
+  font-size:1.25em;
+  border-color:#ffffff;
+  padding:8px;
+  user-select:none;
+
+}
+
 footer{
   clear: both;
   color: white;
