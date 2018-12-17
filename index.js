@@ -6,33 +6,33 @@ $(document).ready(function () {
         {
           title: 'Save Life',
           description: 'Darul Hikmah Library, IIUM Gombak',
-          datetime: new Date(2018, 0, 20, 8)
+          datetime: new Date(2019, 0, 20, 8)
         },
         {
           title: 'Donate save soul',
           description: 'Masjid Sultan Ahmad Shah, IIUM Gombak',
-          datetime: new Date(2018, 1, 23, 9),
+          datetime: new Date(2019, 1, 23, 9),
           /*url: "https://www.google.com"*/
         },
         {
           title: 'Kempen Derma Darah 2.0',
           description: 'LRT Masjid Jamek',
-          datetime: new Date(2018, 11, 23, 9),
+          datetime: new Date(2019, 11, 23, 9),
 //           url: "https://www.google.com",
 //           url_blank: true
         },
         {
           title: 'Ayuh Selamatkan Nyawa',
           description: 'Dewan UniKL',
-          datetime: new Date(2018, 10, 23, 8), 
+          datetime: new Date(2019, 2, 23, 8), 
 //           url: "https://www.google.com",
 //           url_blank: false
-        }
+        },
         {
           title: 'Blood Donation Campaign',
           description: 'KLCC',
           datetime: new Date(2019, 0, 20, 8)
-        }
+        },
         {
           title: 'Donation for Blood Bank',
           description: 'Al Malik Faisal Hall',
