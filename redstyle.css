@@ -4,7 +4,6 @@
 
 html {
   font-family: 'Open Sans', sans-serif;
-  background: url(http://www.psd-dude.com/tutorials/resources-images/blood-textures-for-photoshop/human-red-blood-cells-texture.jpg);
 }
 
 h1{
@@ -18,8 +17,7 @@ body {
   margin: 0 auto;
   min-width: 1000px;
   max-width: 1400px;
-  font-family: 'Notable', sans-serif;
-  font-family: 'Noto Serif JP', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   text-align: justify;
 }
 
