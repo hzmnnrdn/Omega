@@ -29,7 +29,7 @@
 .c-day {
     width: 14.28%;
     height: 13%;
-    background-color: #EFF4F9;
+    background-color: #FFD3D3;
     float: left;
     text-align: center;
 }
@@ -131,7 +131,7 @@
 }
 
 .c-event-body {
-    background-color: #FFDDC0;
+    background-color: #FFF1E6;
     height: 88.1%;
 }
 
@@ -158,7 +158,6 @@
 }
 
 .c-event-over {
-    background-color: lightgray;
     font-weight: bold;
     color: black;
 }
