@@ -48,7 +48,7 @@ header, footer {
 nav {
   float: left;
   width: 100%;
-  border-left: 30px solid maroon;
+  position: absolute;
 }
 
 nav ul {
@@ -91,6 +91,7 @@ nav ul li:hover{
 nav ul li:hover ul li{
     display: block;
 }
+
 .image{
   text-align: center;
 }
