@@ -1,5 +1,4 @@
 $(document).ready(function () {
-    //$('#calendar').eCalendar();
 
     $('#calendar').eCalendar({
     events: [
@@ -12,21 +11,16 @@ $(document).ready(function () {
           title: 'Donate save soul',
           description: 'Masjid Sultan Ahmad Shah, IIUM Gombak',
           datetime: new Date(2018, 11, 23, 9),
-          /*url: "https://www.google.com"*/
         },
         {
           title: 'Kempen Derma Darah 2.0',
           description: 'LRT Masjid Jamek',
           datetime: new Date(2018, 11, 23, 9),
-//           url: "https://www.google.com",
-//           url_blank: true
         },
         {
           title: 'Ayuh Selamatkan Nyawa',
           description: 'Dewan UniKL',
           datetime: new Date(2019, 2, 23, 8), 
-//           url: "https://www.google.com",
-//           url_blank: false
         },
         {
           title: 'Blood Donation Campaign',
