@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $('#calendar').eCalendar();
+    //$('#calendar').eCalendar();
 
     $('#calendar').eCalendar({
     events: [
@@ -73,6 +73,6 @@ $(document).ready(function () {
 //           description: 'CAC IIUM Gombak',
 //           datetime: new Date(2019, 2, 19, 9)
 //         }
-    ]
-});
+    ] 
+    });
 });
