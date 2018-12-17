@@ -39,45 +39,58 @@ header{
   width: 100%;
 }
 
-nav {
-  float: left;
-  width: 100%;
-  border-left: 30px solid maroon;
-}
-
 header, footer {
   padding: 20px;
   background-color: white;
   opacity: 0.95;
 }
 
+nav {
+  float: left;
+  width: 100%;
+  border-left: 30px solid maroon;
+}
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: auto;
+
+}
+
+nav ul li {
+  width: 25%;
+  line-height: 40px;
+    float: left;
+    color: white;
+    text-align: center;
     background-color: maroon;
 }
 
-li {
-    float: left;
-}
-
-li a {
+nav ul li a {
     display: block;
     color: white;
-    text-align: center;
-    padding: 15px 20px;
     text-decoration: none;
 }
 
-
-li a:hover {
-    background-color: red;
+nav ul li ul li {
+    display: none;
+    background-color: maroon;
+    width: 100%;
+    line-height: 40px;
+    float: left;
+    color: white;
+    text-align: center;
 }
 
-
+nav ul li:hover{
+    background-color: red;
+    cursor: pointer;
+}
+nav ul li:hover ul li{
+    display: block;
+}
 .image{
   text-align: center;
 }
