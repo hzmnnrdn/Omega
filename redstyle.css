@@ -23,6 +23,7 @@ body {
 
 section {
   margin: 0 auto;
+  margin-top:30px;
   width: 80%;
   background-color: white;
   padding: 50px;
