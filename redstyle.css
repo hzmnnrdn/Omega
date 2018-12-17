@@ -175,9 +175,12 @@ transition: max-height 0.2s ease-out;
 .paginator-button {
 
   cursor:pointer;
-  font-size:1.25em;
+  font-size:12px;
+  background-color: maroon;
+  color:white;
   border-color:#ffffff;
   padding:8px;
+  border-radius:2px;
   user-select:none;
 
 }
