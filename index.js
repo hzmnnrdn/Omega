@@ -32,47 +32,47 @@ $(document).ready(function () {
           title: 'Blood Donation Campaign',
           description: 'KLCC',
           datetime: new Date(2019, 0, 20, 8)
-        },
-        {
-          title: 'Donation for Blood Bank',
-          description: 'Al Malik Faisal Hall',
-          datetime: new Date(2019, 0, 20, 9)
-        },
-        {
-          title: 'PPUM Kempen Derma Darah',
-          description: 'Surau Mahallah Abu Bakar',
-          datetime: new Date(2019, 1, 20, 9)
-        },
-        {
-          title: 'Blood Donation Campaign 2.0',
-          description: 'KLCC',
-          datetime: new Date(2019, 1, 20, 10)
-        },
-        {
-          title: 'Kempen Derma Darah',
-          description: 'Klinik Uia',
-          datetime: new Date(2019, 2, 5, 8)
-        },
-        {
-          title: 'Kempen Derma Darah',
-          description: 'Klinik Uia',
-          datetime: new Date(2019, 2, 6, 8)
-        },
-        {
-          title: 'Life Savior',
-          description: 'CAC IIUM Gombak',
-          datetime: new Date(2019, 2, 17, 9)
-        },
-        {
-          title: 'Life Savior',
-          description: 'CAC IIUM Gombak',
-          datetime: new Date(2019, 2, 18, 9)
-        },
-        {
-          title: 'Life Savior',
-          description: 'CAC IIUM Gombak',
-          datetime: new Date(2019, 2, 19, 9)
         }
+//         {
+//           title: 'Donation for Blood Bank',
+//           description: 'Al Malik Faisal Hall',
+//           datetime: new Date(2019, 0, 20, 9)
+//         },
+//         {
+//           title: 'PPUM Kempen Derma Darah',
+//           description: 'Surau Mahallah Abu Bakar',
+//           datetime: new Date(2019, 1, 20, 9)
+//         },
+//         {
+//           title: 'Blood Donation Campaign 2.0',
+//           description: 'KLCC',
+//           datetime: new Date(2019, 1, 20, 10)
+//         },
+//         {
+//           title: 'Kempen Derma Darah',
+//           description: 'Klinik Uia',
+//           datetime: new Date(2019, 2, 5, 8)
+//         },
+//         {
+//           title: 'Kempen Derma Darah',
+//           description: 'Klinik Uia',
+//           datetime: new Date(2019, 2, 6, 8)
+//         },
+//         {
+//           title: 'Life Savior',
+//           description: 'CAC IIUM Gombak',
+//           datetime: new Date(2019, 2, 17, 9)
+//         },
+//         {
+//           title: 'Life Savior',
+//           description: 'CAC IIUM Gombak',
+//           datetime: new Date(2019, 2, 18, 9)
+//         },
+//         {
+//           title: 'Life Savior',
+//           description: 'CAC IIUM Gombak',
+//           datetime: new Date(2019, 2, 19, 9)
+//         }
     ]
 });
 });
