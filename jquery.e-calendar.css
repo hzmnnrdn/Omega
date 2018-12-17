@@ -37,7 +37,7 @@
 .c-day-previous-month {
     width: 14.28%;
     height: 13%;
-    background-color: #F9FBFD;
+    background-color: #FFE6E6;
     float: left;
     text-align: center;
     color: gray;
@@ -46,7 +46,7 @@
 .c-day-next-month {
     width: 14.28%;
     height: 13%;
-    background-color: #F9FBFD;
+    background-color: #FFE6E6;
     float: left;
     text-align: center;
     color: gray;
@@ -55,7 +55,7 @@
 .c-week-day {
     width: 14.28%;
     height: 10.38%;
-    background-color: rgb(145, 172, 203);
+    background-color: #FFD3D3;
     color: white;
     float: left;
     text-align: center;
@@ -86,16 +86,16 @@
 }
 
 .c-nav-btn-over {
-    background-color: rgb(137, 163, 192) !important;
+    background-color: #FF9A9A !important;
     font-weight: bold;
 }
 
 .c-today {
-    background-color: #D8EAF1;
+    background-color: #FFADAD;
 }
 
 .c-event {
-    background-color: rgb(166, 166, 166);
+    background-color: #EEA1CD;
     color: white;
     font-weight: bold;
     cursor: pointer;
@@ -126,12 +126,12 @@
     height: 12%;
     text-align: center;
     font-weight: bold;
-    background-color: rgb(135, 155, 188);
+    background-color: #FFADAD;
     color: white;
 }
 
 .c-event-body {
-    background-color: #EFF4F9;
+    background-color: #FFDDC0;
     height: 88.1%;
 }
 
